@@ -105,7 +105,7 @@ function tratarSucesso()
 {
     receiveMessages()
     setInterval(conected, 4000);
-    setInterval(receiveMessages, 25000);
+    setInterval(receiveMessages, 2500);
 
 }
 
